@@ -8,7 +8,7 @@
 <a href="https://instagram.com/jamesbhattarai_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jamesbhattarai_" height="30" width="40" /></a>
 
 ### Academics:
-<img align="center" src="https://cdn.ku.edu.np/xh1551345964.cat/2/100/100" alt="Kathmandu University" height="35" width="35" /></a>
+<a href="https://ku.edu.np/" target="blank"><img align="center" src="https://cdn.ku.edu.np/xh1551345964.cat/2/100/100" alt="Kathmandu University" height="35" width="35" /></a>
 
 
 ### Languages and Tools:
